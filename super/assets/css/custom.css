@@ -1,0 +1,36 @@
+.heading-text{
+	color: #002561;
+	text-transform:uppercase;
+}
+.sub-heading{
+	color:#00C6D7;
+	font-size:20px;
+	text-transform: uppercase;
+}
+.sub-area{
+	margin-top:29px;
+}
+.input-tag{
+	width: 100%;
+    padding: 0.9em 1em 0.9em 4em;
+    color: #777;
+    font-size: 15px;
+    outline: none;
+    font-weight: 400;
+    border: 1px solid #ddd;
+    background: url(../images/icons.png) no-repeat 14px 17px;
+    margin: 0.3em 0;
+    font-family: 'Roboto', sans-serif;
+}
+.rights span{
+	margin-right:5%;
+}
+.submit-btn{
+	background-color:#00C6D7 !important;
+	border-color: #00C6D7 !important;
+	font-size:12px !important;
+	text-transform: uppercase; 
+	letter-spacing: 1px;
+	font-weight: bold;
+	line-height: 19px;
+}
